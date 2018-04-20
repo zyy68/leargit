@@ -4,6 +4,5 @@ add new line.
 
 Add last line at child branch.
 
-0251修改
-
-0259添加	
+3:43把冲突语句修改掉。
+同时添加主内容
